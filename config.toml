@@ -1,0 +1,78 @@
+baseURL = "https://kayaresep.web.app/"
+languageCode = "en-us"
+title = "Kaya Resep"
+theme = "z"
+
+
+[taxonomies]
+  tag = ""
+  category = ""
+
+[permalinks]
+  post = ":slug"
+
+[params]
+  description = "Kumpulan ide memasak harian, mudah diolah di dapur Anda"
+  topdescription = "Temukan berbagai pilihan resep masakan, tak perlu bingung lagi masak apa hari ini"
+  toptitle = "Kaya Resep"
+  contentBackgroundColor = "#fff"
+  contentLinkColor = "#007bff"
+  contentLinkHoverColor = "#0056b3"
+  contentTextColor = "#212529"
+  cookieConsent = false
+  customBlockquoteStyle = true
+  customCodeStyle = true
+  customDateFormat = "Jan 2, 2006"
+  faviconMsApplicationTileColor = "#da532c"
+  faviconSafariPinnedTabColor = "#5bbad5"
+  faviconThemeColor = "#ffffff"
+  googleAnalytics = ""
+  includeBootstrapJs = true
+  navbarBackgroundColor = "#212529"
+  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
+  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
+  showPostSummary = false
+  wrapperMaxWidth = ""
+
+[menu]
+  [[menu.nav]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[author]
+    name = "Paijo Donald"
+    homepage = "https://kayaresep.web.app/"
+    bio = "Pecinta Minuman Jamu"
+    image = "https://i.imgur.com/qNQv8nK.jpg"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+  [markup.highlight]
+    codeFences = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 6
+    startLevel = 2
