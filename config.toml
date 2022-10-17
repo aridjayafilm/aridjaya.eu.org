@@ -33,7 +33,6 @@ theme = "z"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
   showPostSummary = true
   wrapperMaxWidth = ""
-  mainSections = ["series"]
   [params.social.share]
     facebook = true
     linkedin = true
