@@ -2,6 +2,5 @@
 
 <h1>{{ .Title | markdownify }}</h1>
 {{ .Content }}
-{{ if ne .Section "pages" }}{{ partial "social-share.html" . }}{{ end }}
 
 {{- end -}}
