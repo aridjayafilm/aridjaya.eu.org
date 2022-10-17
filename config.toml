@@ -39,7 +39,23 @@ theme = "z"
   name = "Home"
   url = "/"
   weight = 1
-
+  [[menu.nav]]
+  name = "Contact"
+  url = "/pages/contact"
+  weight = 2
+  [[menu.nav]]
+  name = "Copyright"
+  url = "/pages/copyright"
+  weight = 3
+  [[menu.nav]]
+  name = "DMCA"
+  url = "/pages/dmca"
+  weight = 4
+  [[menu.nav]]
+  name = "Privacy Policy"
+  url = "/pages/privacy-policy"
+  weight = 5
+  
 [author]
     name = "Admin"
     homepage = "https://aridjayafilm.github.io/"
