@@ -229,6 +229,11 @@ video {
 	border: 0;
 }
 
+iframe::after {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	margin-bottom: 10px;
+}
+
 .bg-hitam {
 	background: #000;
 	background: url(/img/banner.jpg) center no-repeat;
@@ -278,8 +283,8 @@ header h1 a {
 
 .sidebar {
 	background-color: #ffffff;
-    border: 1px solid rgba(0, 0, 0, 0.125);
-    border-radius: 0.25rem;
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	border-radius: 0.25rem;
 }
 
 .ovl {
