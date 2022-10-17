@@ -1,10 +1,8 @@
 ---
 description: "Gaduri Restaurant Eps. 1"
 title: "Gaduri Restaurant Eps. 1"
-
 date: 2020-07-13T17:51:41.542Z
 image: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
-
 author: Admin
 ratingvalue: 4.5
 reviewcount: 7
@@ -14,15 +12,9 @@ tags:
 - makan
 - siang
 - bento
-
 ---
 
-<iframe width="560" height="315" 
-scrolling="no"
-src="https://player.aridjaya.com/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0=" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<object type="text/html" data="https://player.aridjaya.com/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0="></object>
 
 After falling hard for a man who she believed would love her for all eternity, Ga Du Ri’s (Lee Joo Bin) outlook on life and love couldn’t have been more rosy. But when the man of her dreams leaves her with nothing but a shattered heart and broken dreams, Du Ri must find a way to pick herself up and move on. Summoning all her strength and her courage, Du Ri does exactly that. Starting a new chapter in her life, Du Ri opens “Ga Du Ri’s Sushi Restaurant” and quickly makes a name for herself, not only as a successful business owner, but also as an expert on dating and romance.
 
