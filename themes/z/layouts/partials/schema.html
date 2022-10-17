@@ -27,8 +27,7 @@
         "cookTime": "{{ .Params.cooktime }}",
         "recipeYield": "{{ .Params.recipeyield }}",
         "recipeCategory": "{{ .Params.recipecategory }}",
-        "datePublished": "{{ dateFormat "
-        2006 - 01 - 02 " .Date }}",
+        "datePublished": "{{ dateFormat "2006-01-02" .Date }}",
         "author": {
             "@type": "Person",
             "name": "{{ $author }}"
