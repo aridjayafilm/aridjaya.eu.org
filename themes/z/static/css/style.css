@@ -231,6 +231,20 @@ video {
 	margin-bottom: 1em;
 }
 
+.movie-thumbnail {
+	width: 100%;
+	max-width: 20%;
+	text-align: center;
+	background: #ffffff;
+	float: left;
+	margin: 0 15px 15px 0;
+}
+
+.movie-thumbnail img {
+    aspect-ratio: 3/4;
+    height: auto;
+}
+
 .bg-hitam {
 	background: #000;
 	background: url(/img/banner.jpg) center no-repeat;
