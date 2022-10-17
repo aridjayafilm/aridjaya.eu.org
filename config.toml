@@ -1,6 +1,6 @@
-baseURL = "https://kayaresep.web.app/"
+baseURL = "https://aridjayafilm.github.io/"
 languageCode = "en-us"
-title = "Kaya Resep"
+title = "Aridjaya Film"
 theme = "z"
 
 
@@ -12,9 +12,9 @@ theme = "z"
   post = ":slug"
 
 [params]
-  description = "Kumpulan ide memasak harian, mudah diolah di dapur Anda"
-  topdescription = "Temukan berbagai pilihan resep masakan, tak perlu bingung lagi masak apa hari ini"
-  toptitle = "Kaya Resep"
+  description = "Movie Collection"
+  topdescription = "Watch Online Movie"
+  toptitle = "Aridjaya Film"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -31,7 +31,7 @@ theme = "z"
   navbarBackgroundColor = "#212529"
   navbarLinkColor = "rgba(255, 255, 255, 0.75)"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
-  showPostSummary = false
+  showPostSummary = true
   wrapperMaxWidth = ""
 
 [menu]
@@ -41,9 +41,9 @@ theme = "z"
   weight = 1
 
 [author]
-    name = "Paijo Donald"
-    homepage = "https://kayaresep.web.app/"
-    bio = "Pecinta Minuman Jamu"
+    name = "Admin"
+    homepage = "https://aridjayafilm.github.io/"
+    bio = "Watch Online Movie"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
 [markup]
