@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             {{ range (.Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) 9).Pages }}         
-                <div class="col-md-2 mb-2 d-flex">
+                <div class="col-md-4 mb-4 d-flex">
                     <div class="card">
                         <a href="{{ .Permalink }}">
                         <img class='card-img-top mt-0 mb-0' 
