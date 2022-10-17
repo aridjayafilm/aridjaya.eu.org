@@ -12,7 +12,7 @@
             {{ replace (replace .Content "<!--inarticleads1-->" (partial "ads-in-article1.html" .)) "<!--inarticleads2-->" (partial "ads-in-article2.html" .) | safeHTML }}
           </div>
           <div class="mt-1">{{ partial "ads-below-content.html" . }}</div>
-          {{ if ne .Section "pages" }}{{ partial "social-share.html" . }}{{ end }}
+          {{ partial "social-share.html" . }}
         </div>
       </article>
       {{ partial "comments.html" . }}
