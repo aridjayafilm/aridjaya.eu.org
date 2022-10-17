@@ -1,8 +1,8 @@
 ---
-description: "Gaduri Restaurant Eps 2"
-title: "Gaduri Restaurant Eps 2"
+description: "Gaduri Restaurant"
+title: "Gaduri Restaurant"
 date: 2002-07-13T17:51:41.542Z
-image: https://aridjayafilm.github.io/assets/img/gaduri-restaurant.webp
+image: https://user-images.githubusercontent.com/98423525/196230492-cd376c31-017a-4675-8077-dd6e6789392b.jpg
 author: Admin
 ratingvalue: 4.5
 reviewcount: 7
@@ -15,7 +15,7 @@ tags:
 ---
 
 <figure>
-<img src="https://aridjayafilm.github.io/assets/img/gaduri-restaurant.webp"></img>
+<img src="https://user-images.githubusercontent.com/98423525/196230492-cd376c31-017a-4675-8077-dd6e6789392b.jpg"></img>
 </figure>
 
 **Sinopsis :**
