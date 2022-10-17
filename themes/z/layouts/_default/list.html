@@ -2,7 +2,7 @@
 <article class="card-post">
     <div class="container">
         <div class="row">
-            {{ range (.Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) 9).Pages }}
+            {{ range (.Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) 12).Pages }}
             <div class="col-md-3 mb-4 d-flex">
                 <div class="card">
                     <a href="{{ .Permalink }}">
