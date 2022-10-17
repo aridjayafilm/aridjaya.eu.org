@@ -1,7 +1,7 @@
 ---
 description: "Gaduri Restaurant"
 title: "Gaduri Restaurant"
-slug: gaduri-restaurant-eps-1
+slug: 1-gaduri-restaurant-eps-1
 date: 2022-11-19T11:21:06.809Z
 image: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
 thumbnail: https://aridjayafilm.github.io/img/gaduri-restaurant.webp
