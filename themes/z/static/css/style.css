@@ -276,6 +276,10 @@ header h1 a {
 	max-width: 100%;
 }
 
+.sidebar {
+	background-color: #ffffff;
+}
+
 .ovl {
 	font-size: 95%;
 	line-height: 1.1rem;
