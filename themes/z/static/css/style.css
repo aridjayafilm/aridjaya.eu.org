@@ -343,13 +343,13 @@ social share css
 }
 
 .social-share .share-icons li {
-	padding: 0;
+	width: 20%;
 	padding-bottom: 0px !important;
 }
 
 .social-share .share-btn {
 	padding: 0.25em;
-	width: 3em;
+	width: 100%;
 }
 
 .social-share-nav .share-btn h3 {
