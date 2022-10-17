@@ -6,7 +6,7 @@
         <div class="card-body p-md-3 mb-0">
           <div class="post-header mb-0 pb-0">
             <h4 class="card-title mb-2">{{ .Title }}</h4>
-            <div class="mb-1">{{ partial "ads-below-title.html" . }}</div>
+            <div class="mb-3">{{ partial "ads-below-title.html" . }}</div>
           </div>
           <div class="post-content pt-0 mt-0">
             {{ replace (replace .Content "<!--inarticleads1-->" (partial "ads-in-article1.html" .)) "<!--inarticleads2-->" (partial "ads-in-article2.html" .) | safeHTML }}
