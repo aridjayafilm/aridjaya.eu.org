@@ -42,6 +42,47 @@
             "@type": "NutritionInformation",
             "calories": "{{ .Params.nutrition }}"
         },
+        "recipeIngredient": [{
+                {
+                    range $index, $ingredients: = .Params.recipeingredient
+                }
+            } {
+                {
+                    if $index
+                }
+            }, {
+                {
+                    end
+                }
+            }
+            "{{ $ingredients }}" {
+                {
+                    end
+                }
+            }
+        ],
+        "recipeInstructions": [{
+                {
+                    range $index, $instructions: = .Params.recipeinstructions
+                }
+            } {
+                {
+                    if $index
+                }
+            },
+            {
+                {
+                    end
+                }
+            } {
+                "@type": "HowToStep",
+                "text": "{{ $instructions }}"
+            } {
+                {
+                    end
+                }
+            }
+        ]
     }
 </script>
 {{ end }}
