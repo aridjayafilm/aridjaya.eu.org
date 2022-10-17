@@ -16,7 +16,9 @@ tags:
 
 <div class="embed-responsive">
 <object type="text/html" data="https://player.aridjaya.com/video/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0="></object>
+</div>
 
+<div class="embed-responsive">
 <iframe width="560" height="315" 
 scrolling="no"
 src="https://player.aridjaya.com/video/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0=" 
