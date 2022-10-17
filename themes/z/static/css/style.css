@@ -229,12 +229,13 @@ object {
 }
 
 .bg-nav {
-	background: #006888;
+	background: #ffffff;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
 
 .bg-hitam a:hover {
 	text-decoration: none;
-	color: white;
+	color: #343a40 !important;
 }
 
 .post-header {
