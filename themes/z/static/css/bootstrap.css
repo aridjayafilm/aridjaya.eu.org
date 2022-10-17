@@ -7141,12 +7141,12 @@ button.bg-dark:focus {
 .embed-responsive embed,
 .embed-responsive object,
 .embed-responsive video {
-  position: absolute;
+  aspect-ratio: 16/9;
   top: 0;
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: auto;
   border: 0;
 }
 
