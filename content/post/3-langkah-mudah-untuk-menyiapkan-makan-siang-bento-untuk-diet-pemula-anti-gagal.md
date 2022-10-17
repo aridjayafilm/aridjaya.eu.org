@@ -1,7 +1,7 @@
 ---
-description: "Langkah Mudah untuk Menyiapkan Makan siang bento untuk diet pemula Anti Gagal"
-title: "Langkah Mudah untuk Menyiapkan Makan siang bento untuk diet pemula Anti Gagal"
-slug: 3-langkah-mudah-untuk-menyiapkan-makan-siang-bento-untuk-diet-pemula-anti-gagal
+description: "Restauran Gaudari"
+title: "Restauran Gaudari"
+
 date: 2020-07-13T17:51:41.542Z
 image: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
