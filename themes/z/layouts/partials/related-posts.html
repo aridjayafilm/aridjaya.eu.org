@@ -1,5 +1,5 @@
-<div class="text-center bg-success">
-	<h5 class="card-header mb-1 text-light">Related Movie</h5>
+<div class="text-left">
+	<h5 class="title">Related Movie</h5>
 </div>
 
 {{ range first 6 (shuffle (where (where site.RegularPages "Type" "in" site.Params.mainSections) "Title" "!=" .Title )) }}
