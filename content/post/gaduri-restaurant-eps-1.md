@@ -15,7 +15,7 @@ tags:
 ---
 
 <figure>
-<object type="text/html" data="https://player.aridjaya.com/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0=" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+<object type="text/html" data="https://player.aridjaya.com/video/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0=" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture" allowfullscreen></object>
 </figure>
 
