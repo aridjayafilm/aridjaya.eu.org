@@ -9,30 +9,12 @@ cover: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-s
 author: Jorge Bowman
 ratingvalue: 4.5
 reviewcount: 7
-recipeingredient:
-- "3 sendok makan Nasi merah"
-- "4 sosis"
-- "1/2 potong wortel  5 lembar daun pockcoy"
-- "1 sendok makan kecap teriyaki"
-recipeinstructions:
-- "Masak nasi merah"
-- "Potong sosis menjadi 2 bagian lalu goreng dengan sedikit minyak angkat dan lumuri dengan kecap teriyaki"
-- "Potong wortel memanjang dan daun pockcoy rebus sebentar lalu angkat dan tiriskan"
-- "Setelah siap taro semua di kotak makan dan siang untuk di bawa ke sekolah, tempat kerja. Selamat mencoba"
 categories:
-- Resep
+- Drama
 tags:
 - makan
 - siang
 - bento
-
-katakunci: makan siang bento 
-nutrition: 131 calories
-recipecuisine: Indonesian
-preptime: "PT37M"
-cooktime: "PT54M"
-recipeyield: "3"
-recipecategory: Dinner
 
 ---
 
