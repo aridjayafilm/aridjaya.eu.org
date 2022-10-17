@@ -251,11 +251,11 @@ iframe::after {
 }
 
 .post-header {
-	font-family: "Barlow", Sans-serif;
+	font-family: "Roboto", Arial, Sans-serif;
 }
 
 .post-content {
-	font-family: "Barlow", Sans-serif;
+	font-family: "Roboto", Arial, Sans-serif;
 }
 
 .top-header {
@@ -265,7 +265,7 @@ iframe::after {
 
 header h1,
 header h1 a {
-	font-family: "Barlow", Sans-serif;
+	font-family: "Roboto", Arial, Sans-serif;
 	color: #ddd;
 }
 
