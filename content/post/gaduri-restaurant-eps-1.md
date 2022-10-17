@@ -1,12 +1,11 @@
 ---
-description: "Restauran Gaudari"
-title: "Restauran Gaudari"
+description: "Gaduri Restaurant Eps. 1"
+title: "Gaduri Restaurant Eps. 1"
 
 date: 2020-07-13T17:51:41.542Z
 image: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
-thumbnail: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
-cover: https://img-global.cpcdn.com/recipes/02d9ef2341014be8/751x532cq70/makan-siang-bento-untuk-diet-pemula-foto-resep-utama.jpg
-author: Jorge Bowman
+
+author: Admin
 ratingvalue: 4.5
 reviewcount: 7
 categories:
