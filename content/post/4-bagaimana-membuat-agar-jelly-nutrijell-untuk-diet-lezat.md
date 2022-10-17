@@ -1,25 +1,17 @@
 ---
-description: "Bagaimana Membuat Agar jelly nutrijell untuk diet, Lezat"
-title: "Bagaimana Membuat Agar jelly nutrijell untuk diet, Lezat"
-slug: 4-bagaimana-membuat-agar-jelly-nutrijell-untuk-diet-lezat
-date: 2020-11-19T11:21:06.809Z
-image: https://img-global.cpcdn.com/recipes/fdb595328285d97e/751x532cq70/agar-jelly-nutrijell-untuk-diet-foto-resep-utama.jpg
-thumbnail: https://img-global.cpcdn.com/recipes/fdb595328285d97e/751x532cq70/agar-jelly-nutrijell-untuk-diet-foto-resep-utama.jpg
+description: "Gaduri Restaurant"
+title: "Gaduri Restaurant"
+slug: gaduri-restaurant-eps-1
+date: 2022-11-19T11:21:06.809Z
+thumbnail: https://aridjayafilm.github.io/img/gaduri-restaurant.webp
 cover: https://img-global.cpcdn.com/recipes/fdb595328285d97e/751x532cq70/agar-jelly-nutrijell-untuk-diet-foto-resep-utama.jpg
-author: Manuel Curtis
-ratingvalue: 3.8
+author: Admin
+ratingvalue: 9.3
 reviewcount: 10
-recipeingredient:
-- "3 1/2 gelas air"
-- "6 bungkus tropicana slim 0 kalori"
-- "1 sachet nutrijell rasa mangga pilih sesuai selera"
-recipeinstructions:
-- "Masukkan air"
-- "Masukkan nutrijell dan tropicana slim aduk hingga mendidih (selama 3 menit)"
-- "Setelah mendidih, matikan api dan masukan ketempat"
-- "Diamkan sampai dingin"
 categories:
-- Resep
+- Korean Drama, 
+- Romantic
+- Comedy
 tags:
 - agar
 - jelly
@@ -35,39 +27,22 @@ recipecategory: Lunch
 
 ---
 
+<iframe width="560" height="315" 
+scrolling="no"
+src="https://player.aridjaya.com/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0=" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
-![Agar jelly nutrijell untuk diet](https://img-global.cpcdn.com/recipes/fdb595328285d97e/751x532cq70/agar-jelly-nutrijell-untuk-diet-foto-resep-utama.jpg)
-
-Lagi mencari inspirasi resep agar jelly nutrijell untuk diet yang unik? Cara menyiapkannya memang tidak susah dan tidak juga mudah. Jika salah mengolah maka hasilnya akan hambar dan justru cenderung tidak enak. Padahal agar jelly nutrijell untuk diet yang enak selayaknya memiliki aroma dan rasa yang mampu memancing selera kita.
-
-Ada beberapa hal yang sedikit banyak mempengaruhi kualitas rasa dari agar jelly nutrijell untuk diet, mulai dari jenis bahan, kemudian pemilihan bahan segar, sampai cara membuat dan menyajikannya. Tak perlu pusing jika mau menyiapkan agar jelly nutrijell untuk diet enak di mana pun anda berada, karena asal sudah tahu triknya maka hidangan ini dapat menjadi sajian istimewa.
-
-Nutrijell terbuat dari bahan herbal dan aman konsumsi setiap hari. Jadi jika Anda menggunakan nutrijell untuk diet maka efek samping diet yang mungkin terjadi lebih rendah. Manfaat menerapkan pola hidup sehat bisa Anda dapatkan jika memulainya dari sekarang.
-
-
-Nah, kali ini kita coba, yuk, variasikan agar jelly nutrijell untuk diet sendiri di rumah. Tetap berbahan sederhana, hidangan ini dapat memberi manfaat untuk membantu menjaga kesehatan tubuhmu sekeluarga. Anda bisa membuat Agar jelly nutrijell untuk diet menggunakan 3 bahan dan 4 langkah pembuatan. Berikut ini cara untuk menyiapkan hidangannya.
+After falling hard for a man who she believed would love her for all eternity, Ga Du Ri’s (Lee Joo Bin) outlook on life and love couldn’t have been more rosy. But when the man of her dreams leaves her with nothing but a shattered heart and broken dreams, Du Ri must find a way to pick herself up and move on. Summoning all her strength and her courage, Du Ri does exactly that. Starting a new chapter in her life, Du Ri opens “Ga Du Ri’s Sushi Restaurant” and quickly makes a name for herself, not only as a successful business owner, but also as an expert on dating and romance.
 
 <!--inarticleads1-->
 
-##### Bahan-bahan dan bumbu yang digunakan dalam pembuatan Agar jelly nutrijell untuk diet:
-
-1. Ambil 3 1/2 gelas air
-1. Ambil 6 bungkus tropicana slim (0 kalori)
-1. Siapkan 1 sachet nutrijell rasa mangga (pilih sesuai selera)
-
-
-Nutrijell Jelly Powder Plain: Nestle Crunch Ice Cream:. Harap dicatat bahwa beberapa makanan mungkin tidak cocok untuk beberapa orang dan Anda disarankan untuk mencari nasehat dari ahli gizi sebelum memulai program pengurangan berat badan atau diet. Meskipun demikian, informasi yang disediakan di situs ini benar dan dapat dipercaya adanya. Keduanya berkhasiat melancarkan pencernaan dan baik untuk diet, karena rendah kalori. 
+Drawn to her restaurant both for the food and the fiery-tempered owner with expert dating advice, people from far and wide come to visit Du Ri. Happy to feed the bellies of her customers as she also soothes their hearts, Du Ri offers help to any who ask. But when she catches a mysterious young man by the name of Cha Woo Bin (Hyuk), snooping around the place, Du Ri can’t help but be suspicious. Handsome as he may be, something about this man just feels off...
 
 <!--inarticleads2-->
 
-##### Cara membuat Agar jelly nutrijell untuk diet:
-
-1. Masukkan air
-1. Masukkan nutrijell dan tropicana slim aduk hingga mendidih (selama 3 menit)
-1. Setelah mendidih, matikan api dan masukan ketempat
-1. Diamkan sampai dingin
+Learning the mysterious stranger is actually her neighbor, Du Ri is convinced he’s up to something. But what could a man who disregards the thoughts and opinions of everyone and lives life by his own set of rules want with her? Du Ri has no idea, but she’s determined to find out!
 
 
-Konnyaku powder seperti Nutrijell kerap digunakan untuk membuat puding atau jelly. Namun sebenarnya Anda juga bisa membuat kreasi yang lain dari serbuk ini. Mulai dari cendol, cenil, cake, cookies, sampai bakso dengan pengenyal Nutrijell. Artinya, kamu tetap perlu mengontrol asupan kalori dan mengatur porsi makan harian sementara menjalani diet jelly. Meski begitu, agar-agar yang digunakan tidak bisa sembarangan. 
-
-Gimana nih? Mudah bukan? Itulah cara menyiapkan agar jelly nutrijell untuk diet yang bisa Anda praktikkan di rumah. Selamat mencoba!
+A clash of wit and will, “Gaduri Restaurant” is a 2020 romantic comedy directed by Seo Min Jung.
