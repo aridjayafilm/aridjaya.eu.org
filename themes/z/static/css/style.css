@@ -223,15 +223,12 @@ video {
 	top: 0;
 	bottom: 0;
 	left: 0;
+	right: 0;
 	width: 100%;
 	max-width: 100%;
 	height: auto;
 	border: 0;
-}
-
-iframe::after {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-	margin-bottom: 10px;
+	margin-bottom: 1em;
 }
 
 .bg-hitam {
