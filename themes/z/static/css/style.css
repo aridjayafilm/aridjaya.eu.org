@@ -319,6 +319,10 @@ SVG Icons - svgicons.sparkk.fr
 	display: inline-block;
 }
 
+footer {
+	background-color: #ffffff;
+}
+
 .footer-icon {
 	animation: heartbeat 1.33s ease-in-out infinite;
 	fill: #f06292;
