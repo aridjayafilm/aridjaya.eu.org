@@ -343,7 +343,7 @@ social share css
 }
 
 .social-share .share-icons li {
-	padding: 0 !important;
+	padding: 0;
 	padding-bottom: 0px !important;
 }
 
@@ -365,7 +365,7 @@ ul.share-icons {
 
 ul.share-icons li {
 	display: inline-block;
-	padding: 0 1em 0 0;
+	padding: 0 .5em 0 0;
 }
 
 ul.share-icons li:last-child {
