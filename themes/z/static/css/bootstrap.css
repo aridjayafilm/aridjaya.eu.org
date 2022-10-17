@@ -7788,10 +7788,6 @@ button.bg-dark:focus {
   overflow: hidden;
 }
 
-.embed-responsive::before {
-  content: "";
-}
-
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe,
 .embed-responsive embed,
