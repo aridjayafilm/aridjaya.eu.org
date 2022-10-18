@@ -37,4 +37,4 @@ Drawn to her restaurant both for the food and the fiery-tempered owner with expe
 
 Learning the mysterious stranger is actually her neighbor, Du Ri is convinced he’s up to something. But what could a man who disregards the thoughts and opinions of everyone and lives life by his own set of rules want with her? Du Ri has no idea, but she’s determined to find out!
 
-A clash of wit and will, “Gaduri Restaurant” is a 2020 romantic comedy directed by Seo Min Jung.
+A clash of wit and will, **“Gaduri Restaurant”** is a 2020 romantic comedy directed by Seo Min Jung.

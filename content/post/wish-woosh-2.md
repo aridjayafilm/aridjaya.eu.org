@@ -33,8 +33,8 @@ The drama is centered around Min Ji Woo and her feelings and concerns towards lo
 
 One day, a new employee joins her workplace and turns her life upside-down.  Edit Translation
 
-- Wish Woosh (Korean prequel)
-- Native Title: 우웅우웅2
-- Also Known As: Oo Oong Oo Oong 2
-- Genres: Comedy, Romance, Drama
-- Tags: Older Woman/Younger Man, Web Series, Workplace Setting, Short Length Series, Confident Female Lead, Persevering Female Lead, Workplace Romance, Steamy Kiss, Office Worker, Miniseries (Vote or add tags)
+- **Wish Woosh** (Korean prequel)
+- **Native Title** : 우웅우웅2
+- **Also Known As** : Oo Oong Oo Oong 2
+- **Genres** : Comedy, Romance, Drama
+- **Tags** : Older Woman/Younger Man, Web Series, Workplace Setting, Short Length Series, Confident Female Lead, Persevering Female Lead, Workplace Romance, Steamy Kiss, Office Worker, Miniseries (Vote or add tags)

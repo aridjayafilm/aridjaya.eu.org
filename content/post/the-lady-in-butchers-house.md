@@ -33,4 +33,4 @@ Xu Qing Jia (Tong Meng Shi) is a bookish and morally principled young man who wa
 
 Fortunately, he has a key ally in his struggle: Hu Jiao (Han Yun Zhang), the youngest daughter of the Hu family. The Hu family runs a pork butchery and Hu Jiao has effectively managed it since she was a child. A quirk of fate leads her to marry Xu Qing Jia. But while this marriage looks – on paper – to be a disastrous match, sometimes opposites attract. She is everything he isn’t: She might be illiterate, but she’s a fearsome fighter, a streetwise tough-talker, and has no shortage of common sense. Could this unconventional duo defeat the corrupt officials who stand in their way – and realize their dream of creating a brighter tomorrow for the county?
 
-“The Lady in Butcher’s House” is a 2022 Chinese drama series that was directed by Mao Kun Yu.
+**“The Lady in Butcher’s House”** is a 2022 Chinese drama series that was directed by Mao Kun Yu.
