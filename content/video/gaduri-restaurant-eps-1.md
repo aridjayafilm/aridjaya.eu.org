@@ -1,6 +1,6 @@
 ---
 description: "Gaduri Restaurant Eps 1"
-title: "Gaduri Restaurant Eps 11"
+title: "Gaduri Restaurant Eps 1"
 date: 2002-07-13T17:51:41.542Z
 image: https://aridjayafilm.github.io/assets/img/gaduri-restaurant.webp
 author: Admin
