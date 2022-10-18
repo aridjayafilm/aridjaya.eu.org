@@ -578,18 +578,8 @@ pre code {
 }
 
 @media (min-width: 576px) {
-  .container {
-    max-width: 540px;
-  }
-
   .movie-thumbnail {
     display: none;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 720px;
   }
 }
 
@@ -5264,7 +5254,6 @@ input[type="button"].btn-block {
   background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
 }
 
 .card>hr {
@@ -5370,18 +5359,6 @@ input[type="button"].btn-block {
   -ms-flex-negative: 0;
   flex-shrink: 0;
   width: 100%;
-}
-
-.card-img,
-.card-img-top {
-  border-top-left-radius: calc(0.25rem - 1px);
-  border-top-right-radius: calc(0.25rem - 1px);
-}
-
-.card-img,
-.card-img-bottom {
-  border-bottom-right-radius: calc(0.25rem - 1px);
-  border-bottom-left-radius: calc(0.25rem - 1px);
 }
 
 .card-deck .card {
