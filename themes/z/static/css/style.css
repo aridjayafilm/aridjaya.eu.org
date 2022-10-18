@@ -243,13 +243,12 @@ video {
 
 .bg-hitam {
 	background: #000;
-	background: url(/img/banner.jpg) center no-repeat;
 	background-size: cover;
 }
 
 .bg-nav {
 	background: #ffffff;
-	border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+	border-bottom: 1px solid #e9ebee;
 }
 
 .bg-hitam a:hover {
