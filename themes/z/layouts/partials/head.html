@@ -1,7 +1,8 @@
 <head>
   {{ partial "arsae-client.html" . }}
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,shrink-to-fit=no' name='viewport'/>
+  <link href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
   {{ hugo.Generator }}
   {{ if eq .Section "post"}}<meta name="description" content="{{ .Summary | markdownify | plainify | htmlUnescape }}">{{ end}}
   {{ if ne .Section "post"}}{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}{{ end }}
