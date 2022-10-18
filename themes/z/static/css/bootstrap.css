@@ -5212,6 +5212,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-toggler {
   color: rgba(0, 0, 0, 0.9);
   border-color: rgba(0, 0, 0, 0.9);
+  padding: .45em;
 }
 
 .navbar-dark .navbar-toggler-icon {
