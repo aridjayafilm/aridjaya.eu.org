@@ -2,7 +2,7 @@
 description: "The Lady in Butcher's House"
 title: "The Lady in Butcher's House"
 date: 2022-01-18
-image: https://user-images.githubusercontent.com/98423525/196333596-1e3ca6cb-05bc-41db-82fd-c2145029feca.jpg
+image: 
 author: Admin
 ratingvalue: 4.5
 reviewcount: 7
@@ -14,7 +14,7 @@ tags:
 - bento
 ---
 
-![The Lady in Butcher's House](https://user-images.githubusercontent.com/98423525/196333596-1e3ca6cb-05bc-41db-82fd-c2145029feca.jpg)
+![The Lady in Butcher's House](/assets/img/the-lady-in-butcher’s-house.jpg)
 
 [Eps. 1](/video/the-lady-in-butchers-house-eps-1)
 [Eps. 2](/video/the-lady-in-butchers-house-eps-2)

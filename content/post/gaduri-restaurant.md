@@ -2,7 +2,7 @@
 description: "Gaduri Restaurant"
 title: "Gaduri Restaurant"
 date: 2002-07-13T17:51:41.542Z
-image: https://user-images.githubusercontent.com/98423525/196230492-cd376c31-017a-4675-8077-dd6e6789392b.jpg
+image: /assets/img/gaduri-restaurant.jpg
 author: Admin
 ratingvalue: 4.5
 reviewcount: 7
@@ -14,7 +14,7 @@ tags:
 - bento
 ---
 
-![Gaduri Restaurant](https://user-images.githubusercontent.com/98423525/196230492-cd376c31-017a-4675-8077-dd6e6789392b.jpg)
+![Gaduri Restaurant](/assets/img/gaduri-restaurant.jpg)
 
 [Eps. 1](/video/gaduri-restaurant-eps-1)
 [Eps. 2](/video/gaduri-restaurant-eps-2)

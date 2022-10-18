@@ -2,7 +2,7 @@
 description: "Wish Woosh 2"
 title: "Wish Woosh 2"
 date: 2022-07-13T17:51:41.542Z
-image: https://user-images.githubusercontent.com/98423525/196381729-88ac5c34-79d8-4741-8193-304e6c83f4f5.jpg
+image: /assets/img/wish-woosh-2.jpg
 author: Admin
 ratingvalue: 4.5
 reviewcount: 7
@@ -14,7 +14,7 @@ tags:
 - bento
 ---
 
-![Wish Woosh 2](https://user-images.githubusercontent.com/98423525/196381729-88ac5c34-79d8-4741-8193-304e6c83f4f5.jpg)
+![Wish Woosh 2](/assets/img/wish-woosh-2.jpg)
 
 [Eps. 1](/video/wish-woosh-2-eps-1)
 [Eps. 2](/video/wish-woosh-2-eps-2)
