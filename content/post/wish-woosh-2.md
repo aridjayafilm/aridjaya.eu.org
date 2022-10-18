@@ -16,6 +16,17 @@ tags:
 
 ![Wish Woosh 2](https://user-images.githubusercontent.com/98423525/196381729-88ac5c34-79d8-4741-8193-304e6c83f4f5.jpg)
 
+[Eps. 1](/video/wish-woosh-2-eps-1)
+[Eps. 2](/video/wish-woosh-2-eps-2)
+[Eps. 3](/video/wish-woosh-2-eps-3)
+[Eps. 4](/video/wish-woosh-2-eps-4)
+[Eps. 5](/video/wish-woosh-2-eps-5)
+[Eps. 6](/video/wish-woosh-2-eps-6)
+[Eps. 7](/video/wish-woosh-2-eps-7)
+[Eps. 8](/video/wish-woosh-2-eps-8)
+[Eps. 9](/video/wish-woosh-2-eps-9)
+[Eps. 10](/video/wish-woosh-2-eps-10)
+
 **Sinopsis :**
 
 The drama is centered around Min Ji Woo and her feelings and concerns towards love. She is a hard-working, confident and a nearly perfect worker. 
