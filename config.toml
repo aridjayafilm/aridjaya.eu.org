@@ -3,13 +3,14 @@ languageCode = "en-us"
 title = "Aridjaya Film"
 theme = "z"
 
-
 [taxonomies]
   tag = ""
   category = ""
 
 [permalinks]
   post = ":slug"
+  pages = ":slug"
+  video = ":slug"
 
 [params]
   description = "Movie Collection"
