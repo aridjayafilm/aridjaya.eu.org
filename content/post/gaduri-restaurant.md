@@ -18,7 +18,7 @@ tags:
 
 [Eps. 1](/video/gaduri-restaurant-eps-1)
 [Eps. 2](/video/gaduri-restaurant-eps-1)
-[Eps. 3](video/gaduri-restaurant-eps-1)
+[Eps. 3](/video/gaduri-restaurant-eps-1)
 [Eps. 4](/video/gaduri-restaurant-eps-1)
 [Eps. 5](/video/gaduri-restaurant-eps-1)
 

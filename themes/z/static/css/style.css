@@ -292,10 +292,9 @@ header h1 a {
 	background: #4d90fe;
 	font-weight: 500;
 	border: 1px solid transparent;
-	border-radius: 50px;
 	color: #ffffff;
-	margin: 5px;
-	padding: 5px 10px
+	margin: 5px 5px 5px 0;
+	padding: 5px 12px
 }
 
 .post-content a:hover {
