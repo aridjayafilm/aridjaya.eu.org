@@ -10,8 +10,6 @@ sectionPagesMenu = "main"
 
 [permalinks]
   post = ":slug"
-  pages = ":slug"
-  video = ":slug"
 
 [params]
   description = "Movie Collection"
