@@ -514,12 +514,14 @@ mark,
 }
 
 .figure {
+  width: 100%;
   display: inline-block;
 }
 
 .figure-img {
   margin-bottom: 0.5rem;
   line-height: 1;
+  width: 100%;
 }
 
 .figure-caption {
