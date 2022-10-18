@@ -17,10 +17,17 @@ tags:
 ![Gaduri Restaurant](https://user-images.githubusercontent.com/98423525/196230492-cd376c31-017a-4675-8077-dd6e6789392b.jpg)
 
 [Eps. 1](/video/gaduri-restaurant-eps-1)
-[Eps. 2](/video/gaduri-restaurant-eps-1)
-[Eps. 3](/video/gaduri-restaurant-eps-1)
-[Eps. 4](/video/gaduri-restaurant-eps-1)
-[Eps. 5](/video/gaduri-restaurant-eps-1)
+[Eps. 2](/video/gaduri-restaurant-eps-2)
+[Eps. 3](/video/gaduri-restaurant-eps-3)
+[Eps. 4](/video/gaduri-restaurant-eps-4)
+[Eps. 5](/video/gaduri-restaurant-eps-5)
+[Eps. 6](/video/gaduri-restaurant-eps-6)
+[Eps. 7](/video/gaduri-restaurant-eps-7)
+[Eps. 8](/video/gaduri-restaurant-eps-8)
+[Eps. 9](/video/gaduri-restaurant-eps-9)
+[Eps. 10](/video/gaduri-restaurant-eps-10)
+[Eps. 11](/video/gaduri-restaurant-eps-11)
+[Eps. 12](/video/gaduri-restaurant-eps-12)
 
 **Sinopsis :**
 
