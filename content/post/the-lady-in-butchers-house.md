@@ -14,9 +14,18 @@ tags:
 - bento
 ---
 
-<figure>
-<img src="https://user-images.githubusercontent.com/98423525/196333596-1e3ca6cb-05bc-41db-82fd-c2145029feca.jpg"></img>
-</figure>
+![The Lady in Butcher's House](https://user-images.githubusercontent.com/98423525/196333596-1e3ca6cb-05bc-41db-82fd-c2145029feca.jpg)
+
+[Eps. 1](/video/the-lady-in-butchers-house-eps-1)
+[Eps. 2](/video/the-lady-in-butchers-house-eps-2)
+[Eps. 3](/video/the-lady-in-butchers-house-eps-3)
+[Eps. 4](/video/the-lady-in-butchers-house-eps-4)
+[Eps. 5](/video/the-lady-in-butchers-house-eps-5)
+[Eps. 6](/video/the-lady-in-butchers-house-eps-6)
+[Eps. 7](/video/the-lady-in-butchers-house-eps-7)
+[Eps. 8](/video/the-lady-in-butchers-house-eps-8)
+[Eps. 9](/video/the-lady-in-butchers-house-eps-9)
+[Eps. 10](/video/the-lady-in-butchers-house-eps-10)
 
 **Sinopsis :**
 
