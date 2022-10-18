@@ -66,7 +66,7 @@ theme = "z"
     name = "Admin"
     homepage = "https://aridjayafilm.github.io/"
     bio = "Watch Online Movie"
-    image = "https://i.imgur.com/qNQv8nK.jpg"
+    image = "https://user-images.githubusercontent.com/98423525/196342062-6b88c856-79ae-406c-ac9e-748574df19e5.png"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
