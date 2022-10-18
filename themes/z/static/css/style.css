@@ -237,8 +237,8 @@ video {
 }
 
 .movie-thumbnail img {
-    aspect-ratio: 3/4;
-    height: auto;
+	aspect-ratio: 3/4;
+	height: auto;
 }
 
 .bg-hitam {
@@ -285,6 +285,21 @@ header h1 a {
 
 .post-content img {
 	max-width: 100%;
+}
+
+.post-content a {
+	display: inline-block;
+	background: #4d90fe;
+	font-weight: 500;
+	border: 1px solid transparent;
+	border-radius: 50px;
+	color: #ffffff;
+	margin: 5px;
+	padding: 5px 10px
+}
+
+.post-content a:hover {
+	background: #b45357
 }
 
 .sidebar {
