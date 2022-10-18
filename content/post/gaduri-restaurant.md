@@ -14,19 +14,13 @@ tags:
 - bento
 ---
 
-<figure>
 ![Gaduri Restaurant](https://user-images.githubusercontent.com/98423525/196230492-cd376c31-017a-4675-8077-dd6e6789392b.jpg)
-</figure>
 
-> [Eps. 1](/video/gaduri-restaurant-eps-1)
-
-> [Eps. 2](/video/gaduri-restaurant-eps-1)
-
-> [Eps. 3](video/gaduri-restaurant-eps-1)
-
-> [Eps. 4](/video/gaduri-restaurant-eps-1)
-
-> [Eps. 5](/video/gaduri-restaurant-eps-1)
+[Eps. 1](/video/gaduri-restaurant-eps-1)
+[Eps. 2](/video/gaduri-restaurant-eps-1)
+[Eps. 3](video/gaduri-restaurant-eps-1)
+[Eps. 4](/video/gaduri-restaurant-eps-1)
+[Eps. 5](/video/gaduri-restaurant-eps-1)
 
 **Sinopsis :**
 
