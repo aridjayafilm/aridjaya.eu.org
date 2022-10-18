@@ -2,6 +2,7 @@ baseURL = "https://aridjayafilm.github.io/"
 languageCode = "en-us"
 title = "Aridjaya Film"
 theme = "z"
+sectionPagesMenu = "main"
 
 [taxonomies]
   tag = ""
