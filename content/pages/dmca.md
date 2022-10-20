@@ -7,7 +7,7 @@ date: 2020-08-14T04:29:14.124Z
 
 ##### Notification of Copyright Infringement
 
-We respect the intellectual property rights of others and expects our users to do the same. In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf, we will respond expeditiously to claims of copyright infringement committed using our service that are reported to our Designated Copyright Agent identified in the sample notice below.
+We respect the intellectual property rights of others and expects our users to do the same. In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website, we will respond expeditiously to claims of copyright infringement committed using our service that are reported to our Designated Copyright Agent identified in the sample notice below.
 
 If you are a copyright owner, or are authorized to act on behalf of one or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the site and service (collectively the "Service") by completing the following DMCA Notice of Alleged Infringement and delivering it to our Designated Copyright Agent.
 

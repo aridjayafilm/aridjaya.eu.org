@@ -5,7 +5,7 @@ slug: privacy-policy
 date: 2020-08-14T04:29:14.124Z
 ---
 
-The following is the privacy policy of google, so with that I will implement on my blog by e-mail address contact@www.eluxurysall.com.
+The following is the privacy policy of google, so with that I will implement on my blog by e-mail address.
 
 Last modified: March 1, 2012 (view archived versions)
 
@@ -79,11 +79,12 @@ receive your account information in order to satisfy applicable law, regulation,
 restrict your ability to delete or edit information or privacy settings.
 Please refer to your domain administrator's privacy policy for more information.
 
- For external processingWe provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For legal reasonsWe will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+For external processingWe provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For legal reasonsWe will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 meet any applicable law, regulation, legal process or enforceable governmental request.
 enforce applicable Terms of Service, including investigation of potential violations.
 detect, prevent, or otherwise address fraud, security or technical issues.
 protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
 We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
 
 If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
@@ -92,6 +93,7 @@ Information security
 We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
 We encrypt many of our services using SSL. We offer you two step verification when you access your Google Account, and a Safe Browsing feature in Google Chrome. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
 Application
 Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -107,4 +109,4 @@ Specific product practices
 The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
 
 Chrome and Chrome OS Books Wallet
-The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of -basedomain- then you may contact us at contact@basedomain.com.
+The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of -basedomain- then you may contact us.
