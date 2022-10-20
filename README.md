@@ -1,1 +1,1 @@
-# [kdrama](https://aridjayafilm.github.io/kdrama/)
+# [Aridjaya](https://aridjaya.eu.org)

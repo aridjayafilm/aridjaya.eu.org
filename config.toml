@@ -1,6 +1,6 @@
-baseURL = "https://aridjayafilm.github.io/"
+baseURL = "https://aridjaya.eu.org/"
 languageCode = "en-us"
-title = "Aridjaya Film"
+title = "Aridjaya"
 theme = "z"
 sectionPagesMenu = "main"
 
@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
 [params]
   description = "Movie Collection"
   topdescription = "Watch Online Movie"
-  toptitle = "Aridjaya Film"
+  toptitle = "Aridjaya"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -64,7 +64,7 @@ sectionPagesMenu = "main"
   
 [author]
     name = "Admin"
-    homepage = "https://aridjayafilm.github.io/"
+    homepage = "https://aridjaya.eu.org/"
     bio = "Watch Online Movie"
     image = "https://user-images.githubusercontent.com/98423525/196342062-6b88c856-79ae-406c-ac9e-748574df19e5.png"
 
