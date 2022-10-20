@@ -6,9 +6,12 @@
 
 <!-- Image Overlay /-->
 <div class="mb-1">
-	<a href="{{ .Permalink }}"><img class="card-img" src="{{ if eq .Params.Image "" }}https://placeholder.pics/svg/320x160{{else}}{{ .Params.Image}}{{end}}" alt="{{ .Title | markdownify }}"></a>
+	<a href="{{ .Permalink }}">
+		<img class="card-img radius-3"
+			src="{{ if eq .Params.Image "" }}https://placeholder.pics/svg/320x160{{else}}{{ .Params.Image}}{{end}}"
+			alt="{{ .Title | markdownify }}"></a>
 	<div class="card-img px-3 align-items-center">
-	<a class="card-title font-weight-bold" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+		<a class="card-title font-weight-bold" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
 	</div>
 </div>
 
