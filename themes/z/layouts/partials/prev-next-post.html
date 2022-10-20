@@ -1,7 +1,7 @@
 <div class="row mx-0">
     {{with .PrevInSection}}
     <div class="col-sm-12 col-lg-4 text-center">
-        <div class="card mb-0">
+        <div class="card card-related mb-0">
             <a href="{{ .Permalink }}">
                 <img class="card-img radius-2"
                     src="{{ if eq .Params.Image "" }}https://placeholder.pics/svg/320x160{{else}}{{ .Params.Image}}{{end}}"
@@ -18,7 +18,7 @@
     </div>
     {{with .NextInSection}}
     <div class="col-sm-12 col-lg-4 text-center">
-        <div class="card mb-0">
+        <div class="card card-related mb-0">
             <a href="{{ .Permalink }}">
                 <img class="card-img radius-2"
                     src="{{ if eq .Params.Image "" }}https://placeholder.pics/svg/320x160{{else}}{{ .Params.Image}}{{end}}"

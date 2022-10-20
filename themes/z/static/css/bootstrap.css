@@ -617,6 +617,10 @@ pre code {
     padding-right: 0 !important;
     padding-left: 0 !important;
   }
+
+  .card-related {
+    padding: 0 15px;
+  }
 }
 
 @media (min-width: 992px) {
