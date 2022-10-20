@@ -9,7 +9,7 @@
                           src='{{ if eq .Params.Image "" }}https://placeholder.pics/svg/320x160{{else}}{{ .Params.Image}}{{end}}'
                           alt='{{ .Title | markdownify }}'>
                       </a>
-                      <div class="card-body card-title text-center">
+                      <div class="text-center">
                           <h5 class="card-title mt-0 mb-0">
                               <a class="text-dark" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
                           </h5>
