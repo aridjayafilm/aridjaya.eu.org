@@ -3,7 +3,7 @@
       <div class="row">
           {{ range (.Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) 9).Pages }}         
               <div class="col-md-3 mb-4 d-flex">
-                  <div class="card">
+                  <div class="card-thumbnail">
                       <a href="{{ .Permalink }}">
                       <img class='card-img-top radius-4 mt-0 mb-0' 
                           src='{{ if eq .Params.Image "" }}https://placeholder.pics/svg/320x160{{else}}{{ .Params.Image}}{{end}}'
