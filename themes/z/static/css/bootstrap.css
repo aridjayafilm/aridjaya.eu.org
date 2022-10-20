@@ -9790,7 +9790,7 @@ button.bg-dark:focus {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 480px) {
   .m-md-0 {
     margin: 0 !important;
   }
