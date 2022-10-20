@@ -598,11 +598,18 @@ pre code {
   margin-left: auto;
 }
 
-@media (min-width: 480px) {
+@media (max-width: 761px) {
+
+  *,
+  html,
+  body {
+    background-color: white;
+  }
+
   .col-sm-12,
-  .col-lg-9{
-    padding-right: 0!important;
-    padding-left: 0!important;
+  .col-lg-9 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
   }
 }
 
