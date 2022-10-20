@@ -5,8 +5,8 @@ theme = "z"
 sectionPagesMenu = "main"
 
 [taxonomies]
-  tag = ""
-  category = ""
+  tag = "tags"
+  category = "categories"
 
 [permalinks]
   post = ":slug"
