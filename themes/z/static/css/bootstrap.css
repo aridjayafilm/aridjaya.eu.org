@@ -4804,6 +4804,7 @@ input[type="button"].btn-block {
   line-height: inherit;
   white-space: nowrap;
   font-weight: 600;
+  text-transform: uppercase;
 }
 
 .navbar-brand:hover,
