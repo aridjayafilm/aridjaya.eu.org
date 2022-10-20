@@ -10,7 +10,8 @@
             <hr>
           </div>
           <div class="post-content pt-0 mt-0">
-            {{ with .Params.gomo }} <iframe src="{{ . | safeHTMLAttr }}"></iframe> {{ end }}
+            {{ with .Params.iframe }} <iframe src="{{ . | safeHTMLAttr }}" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+            gyroscope; picture-in-picture" allowfullscreen></iframe> {{ end }}
           </div>
           <div class="mt-1">{{ partial "ads-below-content.html" . }}</div>
           {{ if ne .Section "pages" }}{{ partial "social-share.html" . }}{{ end }}
