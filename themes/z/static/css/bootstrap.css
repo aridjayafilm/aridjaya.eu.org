@@ -598,7 +598,13 @@ pre code {
   margin-left: auto;
 }
 
-@media (max-width: 760px) {
+@media (min-width: 576px) {
+  .movie-thumbnail {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
 
   *,
   html,
@@ -610,12 +616,6 @@ pre code {
   .col-lg-9 {
     padding-right: 0 !important;
     padding-left: 0 !important;
-  }
-}
-
-@media (min-width: 576px) {
-  .movie-thumbnail {
-    display: none;
   }
 }
 
