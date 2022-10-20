@@ -9,9 +9,9 @@ reviewcount: 7
 categories:
 - Drama
 tags:
-- makan
-- siang
-- bento
+- drama
+- korean
+- tv
 ---
 
 ![Le Coup de Foudre](/assets/img/le-coup-de-foudre.jpg)

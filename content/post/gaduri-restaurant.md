@@ -9,9 +9,9 @@ reviewcount: 7
 categories:
 - Drama
 tags:
-- makan
-- siang
-- bento
+- drama
+- korean
+- tv
 ---
 
 ![Gaduri Restaurant](/assets/img/gaduri-restaurant.jpg)

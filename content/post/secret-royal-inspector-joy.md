@@ -9,9 +9,9 @@ reviewcount: 7
 categories:
 - Drama
 tags:
-- makan
-- siang
-- bento
+- drama
+- korean
+- tv
 ---
 
 ![Secret Royal Inspector Joy](/assets/img/secret-royal-inspector-joy.jpg)

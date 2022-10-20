@@ -9,9 +9,9 @@ reviewcount: 7
 categories:
 - Drama
 tags:
-- makan
-- siang
-- bento
+- drama
+- korean
+- tv
 ---
 
 ![Wish Woosh 2](/assets/img/wish-woosh-2.jpg)

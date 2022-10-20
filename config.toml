@@ -46,20 +46,20 @@ sectionPagesMenu = "main"
   url = "/"
   weight = 1
   [[menu.nav]]
-  name = "Contact"
-  url = "/pages/contact"
+  name = "Drama"
+  url = "/tags/drama"
   weight = 2
   [[menu.nav]]
-  name = "Copyright"
-  url = "/pages/copyright"
+  name = "Anime"
+  url = "/tags/anime"
   weight = 3
   [[menu.nav]]
-  name = "DMCA"
-  url = "/pages/dmca"
+  name = "TV"
+  url = "/tags/tv"
   weight = 4
   [[menu.nav]]
-  name = "Privacy Policy"
-  url = "/pages/privacy-policy"
+  name = "Movies"
+  url = "/tags/movies"
   weight = 5
   
 [author]
