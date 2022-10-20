@@ -256,14 +256,6 @@ video {
 	color: #343a40 !important;
 }
 
-.post-header {
-	font-family: "Roboto", Arial, Sans-serif;
-}
-
-.post-content {
-	font-family: "Roboto", Arial, Sans-serif;
-}
-
 .top-header {
 	padding-top: 6rem;
 	padding-bottom: 3rem;
@@ -273,6 +265,14 @@ header h1,
 header h1 a {
 	font-family: "Roboto", Arial, Sans-serif;
 	color: #ddd;
+}
+
+.post-header {
+	font-family: "Roboto", Arial, Sans-serif;
+}
+
+.post-content {
+	font-family: "Roboto", Arial, Sans-serif;
 }
 
 .post-content h2,
@@ -296,12 +296,17 @@ header h1 a {
 	color: #ffffff;
 	margin: 5px 5px 5px 0;
 	padding: 5px 12px;
-	width:5em;
+	width: 5em;
 	border-radius: 3px;
 }
 
 .post-content a:hover {
 	background: #b45357
+}
+
+.post-content iframe {
+	background: black;
+	aspect-ratio: 16/9;
 }
 
 .sidebar {
