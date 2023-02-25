@@ -3,5 +3,5 @@ title: "Gaduri Restaurant Eps 2"
 description: "Gaduri Restaurant Eps 2"
 date: 2020-08-14T04:29:14.124Z
 image: /assets/img/gaduri-restaurant.jpg
-iframe: "https://player.aridjaya.com/video/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0="
+iframe: "https://player.koreanesia.com/video/plyr.html?id=eyJpZCI6WyIxYlR4ZF9xMU1JNlJTWlJQU0JSWWozLWpjZ05JZFBZdXciXX0="
 ---
