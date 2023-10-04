@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drama &#8211; Koreanesia</title>
+	<atom:link href="https://koreanesia.eu.org/genre/drama/feed/" rel="self" type="application/rss+xml" />
+	<link>https://koreanesia.eu.org</link>
+	<description>Collection Movie</description>
+	<lastBuildDate>Wed, 04 Oct 2023 10:15:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Gran Turismo</title>
+		<link>https://koreanesia.eu.org/movies/gran-turismo/</link>
+					<comments>https://koreanesia.eu.org/movies/gran-turismo/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/gran-turismo/</guid>
+
+					<description><![CDATA[The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.]]></description>
+										<content:encoded><![CDATA[The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/gran-turismo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sound of Freedom</title>
+		<link>https://koreanesia.eu.org/movies/sound-of-freedom/</link>
+					<comments>https://koreanesia.eu.org/movies/sound-of-freedom/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/sound-of-freedom/</guid>
+
+					<description><![CDATA[The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.]]></description>
+										<content:encoded><![CDATA[The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/sound-of-freedom/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Defiance</title>
+		<link>https://koreanesia.eu.org/movies/defiance/</link>
+					<comments>https://koreanesia.eu.org/movies/defiance/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/defiance/</guid>
+
+					<description><![CDATA[Based on a true story, during World War II, four Jewish brothers escape their Nazi-occupied homeland of West Belarus in Poland and join the Soviet partisans to combat the Nazis. The brothers begin the rescue of roughly 1,200 Jews still trapped in the ghettos of Poland.]]></description>
+										<content:encoded><![CDATA[<p>Based on a true story, during World War II, four Jewish brothers escape their Nazi-occupied homeland of West Belarus in Poland and join the Soviet partisans to combat the Nazis. The brothers begin the rescue of roughly 1,200 Jews still trapped in the ghettos of Poland.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/defiance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Dark Knight</title>
+		<link>https://koreanesia.eu.org/movies/the-dark-knight/</link>
+					<comments>https://koreanesia.eu.org/movies/the-dark-knight/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2008 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/the-dark-knight/</guid>
+
+					<description><![CDATA[Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/the-dark-knight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

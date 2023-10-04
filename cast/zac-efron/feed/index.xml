@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zac Efron &#8211; Koreanesia</title>
+	<atom:link href="https://koreanesia.eu.org/cast/zac-efron/feed/" rel="self" type="application/rss+xml" />
+	<link>https://koreanesia.eu.org</link>
+	<description>Collection Movie</description>
+	<lastBuildDate>Thu, 01 Mar 2012 00:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>The Lorax</title>
+		<link>https://koreanesia.eu.org/movies/the-lorax/</link>
+					<comments>https://koreanesia.eu.org/movies/the-lorax/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/the-lorax/</guid>
+
+					<description><![CDATA[A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.]]></description>
+										<content:encoded><![CDATA[<p>A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/the-lorax/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

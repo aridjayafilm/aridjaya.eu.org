@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Olivier Richters &#8211; Koreanesia</title>
+	<atom:link href="https://koreanesia.eu.org/cast/olivier-richters/feed/" rel="self" type="application/rss+xml" />
+	<link>https://koreanesia.eu.org</link>
+	<description>Collection Movie</description>
+	<lastBuildDate>Wed, 04 Oct 2023 10:15:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Indiana Jones and the Dial of Destiny</title>
+		<link>https://koreanesia.eu.org/movies/indiana-jones-and-the-dial-of-destiny/</link>
+					<comments>https://koreanesia.eu.org/movies/indiana-jones-and-the-dial-of-destiny/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/indiana-jones-and-the-dial-of-destiny/</guid>
+
+					<description><![CDATA[Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient [&#8230;]]]></description>
+										<content:encoded><![CDATA[Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn&#8217;t fall into the wrong hands.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/indiana-jones-and-the-dial-of-destiny/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

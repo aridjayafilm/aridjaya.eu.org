@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ryan Robbins &#8211; Koreanesia</title>
+	<atom:link href="https://koreanesia.eu.org/cast/ryan-robbins/feed/" rel="self" type="application/rss+xml" />
+	<link>https://koreanesia.eu.org</link>
+	<description>Collection Movie</description>
+	<lastBuildDate>Wed, 04 Oct 2023 10:15:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Sniper: G.R.I.T. &#8211; Global Response &#038; Intelligence Team</title>
+		<link>https://koreanesia.eu.org/movies/sniper-g-r-i-t-global-response-intelligence-team/</link>
+					<comments>https://koreanesia.eu.org/movies/sniper-g-r-i-t-global-response-intelligence-team/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/sniper-g-r-i-t-global-response-intelligence-team/</guid>
+
+					<description><![CDATA[When an international terrorist cult threatens global political stability and kidnaps a fellow agent, Ace Sniper Brandon Beckett and the newly-formed Global Response &#038; Intelligence Team – or G.R.I.T. – led by Colonel Stone must travel across the world to Malta, infiltrate the cult, and take out its leader to free Lady Death and stop [&#8230;]]]></description>
+										<content:encoded><![CDATA[When an international terrorist cult threatens global political stability and kidnaps a fellow agent, Ace Sniper Brandon Beckett and the newly-formed Global Response &#038; Intelligence Team – or G.R.I.T. – led by Colonel Stone must travel across the world to Malta, infiltrate the cult, and take out its leader to free Lady Death and stop the global threat.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/sniper-g-r-i-t-global-response-intelligence-team/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

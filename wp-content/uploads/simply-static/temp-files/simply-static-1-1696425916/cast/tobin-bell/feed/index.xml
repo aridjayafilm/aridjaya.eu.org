@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tobin Bell &#8211; Koreanesia</title>
+	<atom:link href="https://koreanesia.eu.org/cast/tobin-bell/feed/" rel="self" type="application/rss+xml" />
+	<link>https://koreanesia.eu.org</link>
+	<description>Collection Movie</description>
+	<lastBuildDate>Wed, 04 Oct 2023 10:15:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Saw X</title>
+		<link>https://koreanesia.eu.org/movies/saw-x/</link>
+					<comments>https://koreanesia.eu.org/movies/saw-x/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/saw-x/</guid>
+
+					<description><![CDATA[Between the events of &#8216;Saw&#8217; and &#8216;Saw II&#8217;, a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial [&#8230;]]]></description>
+										<content:encoded><![CDATA[Between the events of &#8216;Saw&#8217; and &#8216;Saw II&#8217;, a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/saw-x/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Saw V</title>
+		<link>https://koreanesia.eu.org/movies/saw-v/</link>
+					<comments>https://koreanesia.eu.org/movies/saw-v/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/saw-v/</guid>
+
+					<description><![CDATA[Detective Hoffman is seemingly the last person alive to carry on the Jigsaw legacy. But when his secret is threatened, he must go on the hunt to eliminate all the loose ends.]]></description>
+										<content:encoded><![CDATA[<p>Detective Hoffman is seemingly the last person alive to carry on the Jigsaw legacy. But when his secret is threatened, he must go on the hunt to eliminate all the loose ends.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/saw-v/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
