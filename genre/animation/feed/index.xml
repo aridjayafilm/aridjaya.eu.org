@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Animation &#8211; Koreanesia</title>
+	<atom:link href="https://koreanesia.eu.org/genre/animation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://koreanesia.eu.org</link>
+	<description>Collection Movie</description>
+	<lastBuildDate>Wed, 04 Oct 2023 10:15:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Carl&#8217;s Date</title>
+		<link>https://koreanesia.eu.org/movies/carls-date/</link>
+					<comments>https://koreanesia.eu.org/movies/carls-date/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/carls-date/</guid>
+
+					<description><![CDATA[Carl Fredricksen reluctantly agrees to go on a date with a lady friend—but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl&#8217;s pre-date jitters and offer some tried-and-true tips for making friends—if you&#8217;re a dog.]]></description>
+										<content:encoded><![CDATA[Carl Fredricksen reluctantly agrees to go on a date with a lady friend—but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl&#8217;s pre-date jitters and offer some tried-and-true tips for making friends—if you&#8217;re a dog.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/carls-date/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Elemental</title>
+		<link>https://koreanesia.eu.org/movies/elemental/</link>
+					<comments>https://koreanesia.eu.org/movies/elemental/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/elemental/</guid>
+
+					<description><![CDATA[In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.]]></description>
+										<content:encoded><![CDATA[In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/elemental/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spider-Man: Across the Spider-Verse</title>
+		<link>https://koreanesia.eu.org/movies/spider-man-across-the-spider-verse/</link>
+					<comments>https://koreanesia.eu.org/movies/spider-man-across-the-spider-verse/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">https://koreanesia.eu.org/movies/spider-man-across-the-spider-verse/</guid>
+
+					<description><![CDATA[After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set [&#8230;]]]></description>
+										<content:encoded><![CDATA[After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.]]></content:encoded>
+					
+					<wfw:commentRss>https://koreanesia.eu.org/movies/spider-man-across-the-spider-verse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
